@@ -1,38 +1,34 @@
+# > booting Yossi Abutbul...
 
+Initializing system...
+Loading modules ████████████████████ 100%
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=50&pause=1400&color=00F5FF&width=1250&lines=YOSSI+ABUTBUL;SYSTEMS+ENGINEERING;AUTOMATION+%7C+ARCHITECTURE+%7C+INFRASTRUCTURE"
-/>
+> whoami
 
----
+Computer Science student  
+RF Automation Engineer  
+Builder of systems, not just apps.
 
-### About
+> current_focus
 
-I design and build structured systems.
+- MIPS Pipeline Visualizer
+- RF Test Automation (Python + FastAPI)
+- Algorithmic Thinking
+- Low-level systems & architecture
 
-My work focuses on low-level thinking, automation infrastructure,  
-and engineering software that is precise, scalable, and reliable.
+> stack --languages
 
-From RF test platforms to processor visualizers —  
-I care about architecture, clarity, and execution.
+[ Python ] [ C ] [ JavaScript ] [ React ]  
+[ HTML ] [ CSS ] [ Node.js ] [ Git ]
 
----
+> philosophy
 
-### Stack
+Design clean.
+Think in states.
+Build like an engineer.
+Ship like a hacker.
 
-<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git" />
+> status
 
----
-
-### Focus Areas
-
-- Systems Architecture  
-- Automation Engineering  
-- Algorithmic Design  
-- Performance-oriented Development  
-
----
-
-> Build deliberately.  
-> Optimize intentionally.  
-> Deliver reliably.
+System running.
+Always learning.
