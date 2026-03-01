@@ -24,8 +24,9 @@ and enhance engineering workflows.
 
 - Full-stack development  
 - RF test automation & hardware control (SCPI, spectrum analyzers, BLE, LTE)
-- Algorithms & Data Structures  
-- Computer Architecture (MIPS pipeline, hazards, forwarding logic)  
+- Algorithms & Data Structures
+- Innovation in AI
+- n8n automations
 - Systems Programming in C  
 
 
