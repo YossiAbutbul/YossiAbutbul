@@ -30,15 +30,8 @@ Focused on practical AI:
 
 ### Stack
 
-<img src="https://cdn.simpleicons.org/python/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/c/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/javascript/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/react/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/html5/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/css3/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/git/00E0FF" height="32"/>
-<img src="https://cdn.simpleicons.org/n8n/00E0FF" height="32"/>
+<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git" />
+
 ---
 
 ### Focus Areas
