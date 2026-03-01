@@ -1,7 +1,7 @@
-<!-- Clean Hi-Tech Dark Profile -->
+<!-- Premium Dark Engineering Profile -->
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&pause=1000&color=00BFFF&width=900&lines=Yossi+Abutbul;Systems+Engineering;RF+Automation+%7C+Low-Level+Architecture;Building+Structured+Systems."
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1100&color=00BFFF&width=950&lines=Yossi+Abutbul;Systems+Engineer;RF+Automation+%7C+Low-Level+Architecture;Building+Structured+Systems."
 />
 
 ---
@@ -15,7 +15,14 @@ I build reliable, production-oriented tools — from RF automation platforms to 
 
 ### Tech Stack
 
-Python · C · JavaScript · React · HTML · CSS · Node.js · Git
+🐍 Python ·  
+⚙️ C ·  
+🟨 JavaScript ·  
+⚛️ React ·  
+🌐 HTML ·  
+🎨 CSS ·  
+🟢 Node.js ·  
+🔧 Git
 
 ---
 
