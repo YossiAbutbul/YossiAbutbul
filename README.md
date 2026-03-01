@@ -22,11 +22,12 @@ and enhance engineering workflows.
 
 ## Areas of Interest
 
+- Full-stack development  
+- RF test automation & hardware control (SCPI, spectrum analyzers, BLE, LTE)
 - Algorithms & Data Structures  
 - Computer Architecture (MIPS pipeline, hazards, forwarding logic)  
 - Systems Programming in C  
-- Full-stack development  
-- RF test automation & hardware control (SCPI, spectrum analyzers, BLE, LTE)
+
 
 ---
 
