@@ -25,13 +25,12 @@ Focused on practical AI:
 - Workflow automation with AI agents  
 - Intelligent system orchestration  
 - Engineering productivity tools  
-- Applied LLM integrations  
 
 ---
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git" />
+<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git,n8n" />
 &nbsp;
 <img src="https://img.shields.io/badge/n8n-0b0f17?style=for-the-badge&logo=n8n&logoColor=00E0FF" />
 
