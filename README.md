@@ -1,24 +1,34 @@
-# Hi, I'm Yossi 👋
+# Yossi Abutbul
 
-Computer Science student and RF Automation developer.
+Software & Automation Engineer  
+Focused on systems, performance, and low-level behavior.
 
-I enjoy building systems that combine software, hardware, and algorithms — not just apps.
+---
 
-## Tech
+## Stack
 
-`Python` `C` `JavaScript` `React` `HTML` `CSS` `Node.js` `Git`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## What I'm into
+---
+
+## Areas of Interest
 
 - Algorithms & Data Structures  
-- Computer Architecture (MIPS, pipelines, hazards, forwarding)  
-- Systems programming in C  
+- Computer Architecture (MIPS pipeline, hazards, forwarding logic)  
+- Systems Programming in C  
 - Full-stack development  
-- RF test automation (SCPI, spectrum analyzers, BLE, LTE)
+- RF test automation & hardware control (SCPI, spectrum analyzers, BLE, LTE)
 
-## Current focus
+---
 
-Building tools that simulate or control real systems —  
-from pipeline visualizers to RF measurement automation.
+## Focus
 
-Always trying to understand things deeply enough to build them from scratch.
+Designing and building systems that simulate, automate, or control real-world processes —  
+with attention to architecture, correctness, and performance.
