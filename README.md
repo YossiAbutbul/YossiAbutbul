@@ -17,9 +17,25 @@ I care about architecture, clarity, and execution.
 
 ---
 
+### Innovation in AI
+
+I integrate AI into real engineering workflows —  
+building automation pipelines, intelligent orchestration systems,  
+and AI-assisted tooling that enhances productivity and decision-making.
+
+Focused on practical AI:
+- Workflow automation with AI agents  
+- Intelligent system orchestration  
+- Engineering productivity tools  
+- Applied LLM integrations  
+
+---
+
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git" />
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-0b0f17?style=for-the-badge&logo=n8n&logoColor=00E0FF" />
 
 ---
 
@@ -27,6 +43,7 @@ I care about architecture, clarity, and execution.
 
 - Systems Architecture  
 - Automation Engineering  
+- AI-Driven Infrastructure  
 - Algorithmic Design  
 - Performance-oriented Development  
 
