@@ -5,7 +5,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&co
 />
 
 ---
-
 ---
 
 ### About
