@@ -1,7 +1,9 @@
 # Yossi Abutbul
 
-Software & Automation Engineer  
-Focused on systems, performance, and low-level behavior.
+Computer Science student with hands-on experience in software development, test
+automation, and full-stack projects. Used Python (FastAPI) and React with reusable
+components to build scalable applications, RESTful APIs, and automation tools that optimize
+and enhance engineering workflows.
 
 ---
 
