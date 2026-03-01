@@ -1,31 +1,36 @@
-<!-- Premium Dark Engineering Profile -->
-
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1100&color=00BFFF&width=950&lines=Yossi+Abutbul;Systems+Engineer;RF+Automation+%7C+Low-Level+Architecture;Building+Structured+Systems."
+src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=40&pause=1200&color=2563EB&width=1000&lines=Yossi+Abutbul;Systems+Engineering;Automation+%7C+Architecture+%7C+Infrastructure"
 />
 
 ---
 
-### Engineering Profile
+### About
 
-Computer Science student focused on **systems architecture, automation, and structured software design**.  
-I build reliable, production-oriented tools — from RF automation platforms to processor visualizers.
+I design and build structured systems.
 
----
+My work focuses on low-level thinking, automation infrastructure,  
+and engineering software that is precise, scalable, and reliable.
 
-### Tech Stack
-
-🐍 Python ·  
-⚙️ C ·  
-🟨 JavaScript ·  
-⚛️ React ·  
-🌐 HTML ·  
-🎨 CSS ·  
-🟢 Node.js ·  
-🔧 Git
+From RF test platforms to processor visualizers —  
+I care about architecture, clarity, and execution.
 
 ---
 
-Design with clarity.  
-Engineer with intent.  
-Ship with precision.
+### Stack
+
+<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,nodejs,git" />
+
+---
+
+### Focus Areas
+
+- Systems Architecture  
+- Automation Engineering  
+- Algorithmic Design  
+- Performance-oriented Development  
+
+---
+
+> Build deliberately.  
+> Optimize intentionally.  
+> Deliver reliably.
