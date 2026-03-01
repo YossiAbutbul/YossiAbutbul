@@ -1,5 +1,5 @@
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=40&pause=1200&color=2563EB&width=1000&lines=Yossi+Abutbul;Systems+Engineering;Automation+%7C+Architecture+%7C+Infrastructure"
+src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=46&pause=1200&color=2563EB&width=1100&lines=Yossi+Abutbul;Systems+Engineering;Automation+%7C+Architecture+%7C+Infrastructure"
 />
 
 ---
