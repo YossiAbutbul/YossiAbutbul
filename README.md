@@ -1,38 +1,47 @@
-# Yossi Abutbul
+<!-- Dark / terminal vibe + typing animation -->
 
-Computer Science student with hands-on experience in software development, test
-automation, and full-stack projects. Used Python (FastAPI) and React with reusable
-components to build scalable applications, RESTful APIs, and automation tools that optimize
-and enhance engineering workflows.
+<div align="center">
 
----
+  <!-- Typing animation (dark + neon green) -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=booting+yossi+abutbul...;rf+automation+%2B+systems+engineering;building+tools+that+ship.;pipeline+visualizer+in+progress."
+    alt="typing"
+  />
 
-## Tech Stack
+  <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  <!-- "Terminal" header block -->
+  <pre align="left">
+$ whoami
+Yossi Abutbul — CS student + RF automation engineer
 
----
+$ current_focus
+- MIPS Pipeline Visualizer
+- RF Test Automation (Python + FastAPI)
+- Systems / architecture / low-level thinking
 
-## Areas of Interest
+$ stack --tags
+  </pre>
 
-- Full-stack development  
-- RF test automation & hardware control (SCPI, spectrum analyzers, BLE, LTE)
-- Algorithms & Data Structures
-- Innovation in AI
-- n8n automations
-- Systems Programming in C  
+  <!-- Dark badges -->
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=39FF14" />
 
+  <br/><br/>
 
----
+  <pre align="left">
+$ philosophy
+Design clean. Think in states. Build like an engineer.
 
-## Focus
+$ status
+system: running
+learning: always
+  </pre>
 
-Designing and building systems that simulate, automate, or control real-world processes —  
-with attention to architecture, correctness, and performance.
+</div>
