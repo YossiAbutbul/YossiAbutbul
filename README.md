@@ -7,13 +7,11 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&co
 ---
 ### About
 
-I design and build structured systems.
+Computer Science student with hands-on experience in software development, test automation, and full-stack engineering.
 
-My work focuses on low-level thinking, automation infrastructure,  
-and engineering software that is precise, scalable, and reliable.
+I build scalable applications and automation systems that optimize engineering workflows and improve operational efficiency.
 
-From RF test platforms to processor visualizers —  
-I care about architecture, clarity, and execution.
+My work combines strategic, system-level thinking with meticulous attention to detail to deliver precise and reliable solutions.
 
 ---
 
