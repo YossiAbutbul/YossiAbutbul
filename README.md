@@ -30,7 +30,7 @@ Focused on practical AI:
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,js,python,sql,c,git" />
+<img src="https://skillicons.dev/icons?i=react,html,css,figma,ps,nodejs,js,python,anaconda,aiscript,c,git" />
 
 ---
 
