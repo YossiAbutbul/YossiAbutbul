@@ -1,49 +1,36 @@
-<div align="center">
+<!-- HI-TECH DARK PROFILE README -->
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Yossi+Abutbul;Systems+Engineer;RF+Automation+%7C+Low-Level+Architecture;Building+Tools+That+Think."
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00E0FF&width=900&lines=YOSSI+ABUTBUL;SYSTEMS+ENGINEER;RF+AUTOMATION+%7C+LOW-LEVEL+ARCHITECTURE;BUILDING+STRUCTURED+SYSTEMS."
 />
 
-<br/>
-<br/>
+---
 
-### ⚙️ About Me
+### Engineering Profile
 
-Computer Science student focused on  
-**systems, architecture and automation engineering.**
+Computer Science student specializing in **systems architecture, automation, and low-level design**.  
+I build structured, production-focused tools — not experiments.
 
-I build structured, scalable tools —  
-from RF test automation platforms  
-to CPU pipeline visualizers.
+Currently developing:
+- A MIPS Pipeline Visualizer  
+- RF Test Automation infrastructure (Python + FastAPI)  
+- High-structure frontend systems with React + TypeScript  
 
-<br/>
+---
 
-### 🧠 Engineering Focus
+### Core Stack
 
-- Pipeline & Processor Architecture  
-- RF Test Automation (Python + FastAPI)  
-- Algorithmic Thinking  
-- Clean Frontend Systems (React + TS)
+<img src="https://img.shields.io/badge/Python-0b0f17?style=for-the-badge&logo=python&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/C-0b0f17?style=for-the-badge&logo=c&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/JavaScript-0b0f17?style=for-the-badge&logo=javascript&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/React-0b0f17?style=for-the-badge&logo=react&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/HTML-0b0f17?style=for-the-badge&logo=html5&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/CSS-0b0f17?style=for-the-badge&logo=css3&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/Node.js-0b0f17?style=for-the-badge&logo=node.js&logoColor=00E0FF" />
+<img src="https://img.shields.io/badge/Git-0b0f17?style=for-the-badge&logo=git&logoColor=00E0FF" />
 
-<br/>
+---
 
-### 🚀 Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00C2FF" />
-</p>
-
-<br/>
-
-> Precision over noise.  
-> Systems over scripts.  
-> Engineering over trends.
-
-</div>
+**Design with precision.  
+Engineer with intent.  
+Ship with structure.**
