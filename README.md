@@ -1,7 +1,7 @@
 <!-- HI-TECH DARK PROFILE README -->
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00E0FF&width=900&lines=YOSSI+ABUTBUL;FULL+STACK+DEVELOPER;SYSTEMS+ENGINEER;RF+AUTOMATION;BUILDING+STRUCTURED+SYSTEMS"
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=08313A&width=900&lines=YOSSI+ABUTBUL;FULL+STACK+DEVELOPER;SYSTEMS+ENGINEER;RF+AUTOMATION;BUILDING+STRUCTURED+SYSTEMS"
 />
 
 ---
