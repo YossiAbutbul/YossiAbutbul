@@ -26,7 +26,7 @@ Focused on practical AI:
 
 ---
 
-### Stack
+### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,html,css,figma,ps,nodejs,js,python,anaconda,aiscript,c,git" />
 
