@@ -20,19 +20,6 @@ My background in electronics engineering shapes how I approach software: precisi
 
 ---
 
-### Selected Projects
-
-| Project | Stack | Links |
-|---|---|---|
-| **RF Report Generator** | React · TypeScript · Python · FastAPI · Plotly | [live ↗](https://yossiabutbul.github.io/ReportGenrator/) · [src](https://github.com/YossiAbutbul/ReportGenrator) |
-| **Pipeline CPU Simulator** | React · TypeScript · Vite | [live ↗](https://yossiabutbul.github.io/Pipeline_CPU/) · [src](https://github.com/YossiAbutbul/Pipeline_CPU) |
-| **Two-Pass Assembler** | C (ANSI C90) · Make · GDB | [src](https://github.com/YossiAbutbul/Assembler) |
-| **OPlanner** | React · TypeScript · Firebase | private — case study |
-| **Mini-Circuits Sensor Wrapper** | Python · .NET DLL interop · USB | [src](https://github.com/YossiAbutbul/Mini-Circuits-Power-Sensor) |
-
-→ Full case studies at **[yossiabutbul.github.io/Portfolio](https://yossiabutbul.github.io/Portfolio/)**
-
----
 
 ### Stack
 
