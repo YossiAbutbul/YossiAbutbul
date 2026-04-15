@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=E23614&center=true&vCenter=true&width=680&lines=Yossi+Abutbul;Full-Stack+%26+Systems+Engineer;RF+%26+Test+Automation;Computer+Science+%E2%80%94+Open+University+of+Israel" alt="Yossi Abutbul" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00ff00&center=true&vCenter=true&width=900&lines=YOSSI+ABUTBUL;FULL+STACK+DEVELOPER;SYSTEMS+ENGINEER;RF+AUTOMATION;BUILDING+STRUCTURED+SYSTEMS" alt="Yossi Abutbul" />
 
 <br/>
 
