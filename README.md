@@ -1,43 +1,60 @@
-<!-- HI-TECH DARK PROFILE README -->
+<div align="center">
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00ff00&width=900&lines=YOSSI+ABUTBUL;FULL+STACK+DEVELOPER;SYSTEMS+ENGINEER;RF+AUTOMATION;BUILDING+STRUCTURED+SYSTEMS"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=E23614&center=true&vCenter=true&width=680&lines=Yossi+Abutbul;Full-Stack+%26+Systems+Engineer;RF+%26+Test+Automation;Computer+Science+%E2%80%94+Open+University+of+Israel" alt="Yossi Abutbul" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%86%92_yossiabutbul.github.io%2FPortfolio-E23614?style=for-the-badge&logoColor=white)](https://yossiabutbul.github.io/Portfolio/)
+
+</div>
+
+<br/>
 
 ---
+
 ### About
 
-Computer Science student with hands-on experience in software development, test automation, and full-stack engineering.
-I build scalable applications and automation systems that optimize engineering workflows and improve operational efficiency.
-My work combines strategic, system-level thinking with meticulous attention to detail to deliver precise and reliable solutions.
+CS student at the Open University of Israel with hands-on industry experience building full-stack applications, RF test-automation systems, and embedded tooling. I work across the stack — React frontends, Python/FastAPI backends, hardware device wrappers, and ANSI C systems code.
+
+My background in electronics engineering shapes how I approach software: precision-first, measurable outcomes, minimal moving parts.
 
 ---
 
-### Innovation in AI
+### Selected Projects
 
-I integrate AI into real engineering workflows —  
-building automation pipelines, intelligent orchestration systems,  
-and AI-assisted tooling that enhances productivity and decision-making.
+| Project | Stack | Links |
+|---|---|---|
+| **RF Report Generator** | React · TypeScript · Python · FastAPI · Plotly | [live ↗](https://yossiabutbul.github.io/ReportGenrator/) · [src](https://github.com/YossiAbutbul/ReportGenrator) |
+| **Pipeline CPU Simulator** | React · TypeScript · Vite | [live ↗](https://yossiabutbul.github.io/Pipeline_CPU/) · [src](https://github.com/YossiAbutbul/Pipeline_CPU) |
+| **Two-Pass Assembler** | C (ANSI C90) · Make · GDB | [src](https://github.com/YossiAbutbul/Assembler) |
+| **OPlanner** | React · TypeScript · Firebase | private — case study |
+| **Mini-Circuits Sensor Wrapper** | Python · .NET DLL interop · USB | [src](https://github.com/YossiAbutbul/Mini-Circuits-Power-Sensor) |
 
-Focused on practical AI:
-- Workflow automation with AI agents  
-- Intelligent system orchestration  
-- Engineering productivity tools  
+→ Full case studies at **[yossiabutbul.github.io/Portfolio](https://yossiabutbul.github.io/Portfolio/)**
 
 ---
 
-### Tech Stack
+### Stack
 
-<img src="https://skillicons.dev/icons?i=react,html,css,figma,ps,nodejs,js,python,anaconda,aiscript,c,git" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,html,css,c,git,github,figma,vite&theme=dark" />
 
 ---
 
 ### Focus Areas
 
-- Systems Architecture  
-- Automation Engineering  
-- AI-Driven Infrastructure  
-- Algorithmic Design  
-- Performance-oriented Development  
+```
+Full-stack engineering       React · Python · FastAPI · Firebase
+RF & test automation         Lab instruments · USB · .NET interop
+Systems programming          C · assemblers · CPU architecture
+Hardware integration         Embedded · signal processing · RF
+```
 
+---
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YossiAbutbul&show_icons=true&hide_border=true&title_color=E23614&icon_color=E23614&text_color=aaaaaa&bg_color=0a0a0a&hide=stars" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossiAbutbul&layout=compact&hide_border=true&title_color=E23614&text_color=aaaaaa&bg_color=0a0a0a&langs_count=6" />
+
+</div>
