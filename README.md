@@ -53,7 +53,7 @@ Hardware integration         Embedded · signal processing · RF
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YossiAbutbul&show_icons=true&hide_border=true&title_color=E23614&icon_color=E23614&text_color=aaaaaa&bg_color=0a0a0a&hide=stars" />
+<img src="https://github-readme-stats.vercel.app/api?username=YossiAbutbul&show_icons=true&hide_border=true&title_color=E23614&icon_color=E23614&text_color=aaaaaa&bg_color=0a0a0a&hide=stars&hide_rank=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossiAbutbul&layout=compact&hide_border=true&title_color=E23614&text_color=aaaaaa&bg_color=0a0a0a&langs_count=6" />
 
