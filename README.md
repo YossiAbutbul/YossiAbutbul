@@ -21,8 +21,9 @@ My background in electronics engineering shapes how I approach software: precisi
 ### Focus Areas
 ```
 Full-stack engineering       React · Python · FastAPI · Firebase
-RF & test automation         Lab instruments 
-Hardware integration         Embedded · RF
+RF & test automation         Lab instruments · USB · .NET interop
+Systems programming          C · assemblers · CPU architecture
+Hardware integration         Embedded · signal processing · RF
 ```
 
 ---
