@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=52&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&height=100&lines=YOSSI+ABUTBUL;FULL+STACK+DEVELOPER;SYSTEMS+ENGINEER;RF+AUTOMATION;BUILDING+STRUCTURED+SYSTEMS" alt="Yossi Abutbul" />
 
