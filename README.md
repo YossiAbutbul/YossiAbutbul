@@ -10,9 +10,24 @@
 
 ---
 
-### About
-CS student at the Open University of Israel with hands-on industry experience building full-stack applications, RF test-automation systems, and embedded tooling. I work across the stack — React frontends, Python/FastAPI backends, hardware device wrappers, and ANSI C systems code.
-My background in electronics engineering shapes how I approach software: precision-first, measurable outcomes, minimal moving parts.
+### About me
+
+CS student who came into software through hardware. I spent years working 
+with RF systems and lab instruments, which is where I learned that most of 
+engineering is repetitive work waiting to be automated.
+
+Now I mostly write software. My favorite projects sit at the seam between 
+the two worlds: a full-stack RF Report Generator that pulls live measurements 
+from lab instruments and renders 2D/3D radiation plots, a pipeline CPU 
+simulator I built to internalize what I was learning in architecture class, 
+and a two-pass assembler in ANSI C90 because someone had to.
+
+**Currently:** CS student + RF/automation work on the side  
+**Previously:** IDF Intelligence Corps, Unit 81  
+**Tools I reach for:** Python · TypeScript · React · FastAPI · C · Firebase · Plotly
+
+Pinned repos below — happy to talk shop about test automation, low-level C, 
+or building UIs for instruments.
 
 ---
 
