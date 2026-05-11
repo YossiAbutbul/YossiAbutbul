@@ -16,11 +16,7 @@ CS student who came into software through hardware. I spent years working
 with RF systems and lab instruments, which is where I learned that most of 
 engineering is repetitive work waiting to be automated.
 
-Now I mostly write software. My favorite projects sit at the seam between 
-the two worlds: a full-stack RF Report Generator that pulls live measurements 
-from lab instruments and renders 2D/3D radiation plots, a pipeline CPU 
-simulator I built to internalize what I was learning in architecture class, 
-and a two-pass assembler in ANSI C90 because someone had to.
+
 
 **Currently:** CS student + RF/automation work on the side  
 **Previously:** IDF Intelligence Corps, Unit 81  
