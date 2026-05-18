@@ -30,12 +30,4 @@ or building UIs for instruments.
 ### Stack
 <img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,html,css,c,git,github,figma,vite&theme=dark" />
 
----
 
-### Focus Areas
-```
-Full-stack engineering       React · Python · FastAPI · Firebase
-RF & test automation         Lab instruments · USB · .NET interop
-Systems programming          C · assemblers · CPU architecture
-Hardware integration         Embedded · signal processing · RF
-```
