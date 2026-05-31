@@ -19,11 +19,6 @@ engineering is repetitive work waiting to be automated.
 
 
 **Currently:** CS student + RF/automation work on the side  
-**Previously:** IDF Intelligence Corps, Unit 81  
-**Tools I reach for:** Python · TypeScript · React · FastAPI · C · Firebase · Plotly
-
-Pinned repos below — happy to talk shop about test automation, low-level C, 
-or building UIs for instruments.
 
 ---
 
