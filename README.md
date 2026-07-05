@@ -28,7 +28,7 @@ engineering is repetitive work waiting to be automated.
 
 ### 🎮 Play My Game
 
-Give it a shot - **Trump Jump: Hormuz**
+Give it a shot - **Trump Jump: Strait of Hormuz**
 
 <a href="https://trump-jump-hormuz.vercel.app/">
   <img src="https://img.shields.io/badge/▶_Play_Now-Trump_Jump_Hormuz-FF4500?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Play Trump Jump Hormuz" />
