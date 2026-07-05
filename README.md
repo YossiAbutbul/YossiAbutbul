@@ -10,8 +10,6 @@
 
 ---
 
-<div align="center">
-
 ### About me
 
 CS student who came into software through hardware. I spent years working 
@@ -20,21 +18,13 @@ engineering is repetitive work waiting to be automated.
 
 **Currently:** CS student + RF/automation work on the side
 
-</div>
-
 ---
-
-<div align="center">
 
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,html,css,c,git,github,figma,vite&theme=dark" />
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🎮 Play My Game
 
@@ -44,11 +34,7 @@ Give it a shot - **Trump Jump: Hormuz**
   <img src="https://img.shields.io/badge/▶_Play_Now-Trump_Jump_Hormuz-FF4500?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Play Trump Jump Hormuz" />
 </a>
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 📫 Contact
 
@@ -59,5 +45,3 @@ Give it a shot - **Trump Jump: Hormuz**
 <a href="mailto:abyossi22@gmail.com">
   <img src="https://img.shields.io/badge/Email-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16324F" alt="Email" />
 </a>
-
-</div>
