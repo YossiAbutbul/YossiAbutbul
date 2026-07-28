@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16324F,100:000C1A&height=200&section=header&text=YOSSI%20ABUTBUL&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20RF%20Automation&descSize=18&descAlignY=60" alt="Yossi Abutbul" />
 
-<a href="https://yossiabutbul.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-%E2%86%92_[yossiabutbul.github.io](https://yossiabutbul.vercel.app/)%2FPortfolio-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Portfolio" />
+<a href="https://yossiabutbul.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%E2%86%92_yossiabutbul.vercel.app-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Portfolio" />
 </a>
 
 </div>
@@ -28,7 +28,7 @@ engineering is repetitive work waiting to be automated.
 
 ### 🎮 Play My Game
 
-Give it a shot - **Trump Jump: Strait of Hormuz**
+Give it a shot — **Trump Jump: Strait of Hormuz**
 
 <a href="https://trump-jump-hormuz.vercel.app/">
   <img src="https://img.shields.io/badge/▶_Play_Now-Trump_Jump_Hormuz-FF4500?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Play Trump Jump Hormuz" />
