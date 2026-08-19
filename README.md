@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16324F,100:000C1A&height=200&section=header&text=YOSSI%20ABUTBUL&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20RF%20Automation&descSize=18&descAlignY=60" alt="Yossi Abutbul" />
+<img src="./yossi_github_banner.png" alt="Yossi Abutbul" width="100%" />
 
 <a href="https://yossiabutbul.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-%E2%86%92_yossiabutbul.vercel.app-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Portfolio" />
@@ -12,8 +12,8 @@
 
 ### About me
 
-CS student who came into software through hardware. I spent years working 
-with RF systems and lab instruments, which is where I learned that most of 
+CS student who came into software through hardware. I spent years working
+with RF systems and lab instruments, which is where I learned that most of
 engineering is repetitive work waiting to be automated.
 
 **Currently:** CS student + RF/automation work on the side
