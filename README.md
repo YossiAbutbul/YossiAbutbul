@@ -19,17 +19,6 @@ Now I build the systems that do the repeating.
 
 </div>
 
-<br/>
-
-```
-   ╭──────────╮   ╭──────────╮   ╭──────────╮   ╭──────────╮   ╭──────────╮
-   │    RF    │──▶│  SCPI /  │──▶│  Python  │──▶│ FastAPI  │──▶│  React   │
-   │ hardware │   │   GPIB   │   │ pipeline │   │   layer  │   │    UI    │
-   ╰──────────╯   ╰──────────╯   ╰──────────╯   ╰──────────╯   ╰──────────╯
-    the signal     the control     the math       the API      the human
-```
-
-<br/>
 
 ## The short version
 
