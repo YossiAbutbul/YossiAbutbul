@@ -19,24 +19,6 @@ Now I build the systems that do the repeating.
 
 </div>
 
-
-## The short version
-
-Most people learn software and then discover hardware. I went the other way.
-
-I spent years in RF labs — spectrum analyzers, signal generators, vector network
-analyzers, the whole bench. Somewhere between the hundredth manual sweep and the
-thousandth copy-pasted measurement into Excel, it clicked: **the interesting part of
-engineering is never the part you do twice.**
-
-So I started automating it. Then I started building the interfaces that made the
-automated data usable by people who weren't me. Then I went back to school for CS
-to do it properly.
-
-That's the whole story, and it's still what I build today.
-
-<br/>
-
 ## Selected work
 
 <table>
