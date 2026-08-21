@@ -2,22 +2,37 @@
 
 # Yossi Abutbul
 
-**I make hardware talk to software.**
+### I make hardware talk to software.
 
 RF engineering taught me that most of the job is repetitive work waiting to be automated.<br/>
 Now I build the systems that do the repeating.
 
+<br/>
+
 <a href="https://yossiabutbul.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-16324F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000C1A" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-16324F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000C1A" alt="Portfolio" height="34" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/yossi-abutbul-550958199/">
-  <img src="https://img.shields.io/badge/LinkedIn-16324F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000C1A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-16324F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000C1A" alt="LinkedIn" height="34" />
 </a>
+&nbsp;
 <a href="mailto:abyossi22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000C1A" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000C1A" alt="Email" height="34" />
 </a>
 
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/RF_%26_Test_Automation-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
+<img src="https://img.shields.io/badge/CS_Student-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
+<img src="https://img.shields.io/badge/Open_to_Internships-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
+
 </div>
+
+<br/>
+
+---
 
 ## Selected work
 
@@ -28,11 +43,15 @@ Now I build the systems that do the repeating.
 ### 🎮 Trump Jump: Strait of Hormuz
 
 A browser arcade game. No install, no loading screen, no
-tutorial — just reflexes and the compulsion to try once more.
+tutorial. Just reflexes and the compulsion to try once more.
 
-`JavaScript` &nbsp;·&nbsp; `Canvas` &nbsp;·&nbsp; `Vercel`
+<img src="https://img.shields.io/badge/JavaScript-000C1A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Canvas-000C1A?style=flat-square&logo=htmlacademy&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/Vercel-000C1A?style=flat-square&logo=vercel&logoColor=white" />
 
-**[▶ Play it →](https://trump-jump-hormuz.vercel.app/)**
+<a href="https://trump-jump-hormuz.vercel.app/">
+  <img src="https://img.shields.io/badge/▶_PLAY_IT-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Play it" height="30" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -40,60 +59,49 @@ tutorial — just reflexes and the compulsion to try once more.
 ### 🗂️ Portfolio
 
 Everything else, written up with the reasoning behind
-it — what the problem was, what I tried, what broke.
+it: what the problem was, what I tried, what broke.
 
-`React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Vite`
+<img src="https://img.shields.io/badge/React-000C1A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Vite-000C1A?style=flat-square&logo=vite&logoColor=646CFF" />
 
-**[→ Visit site](https://yossiabutbul.vercel.app/)**
+<a href="https://yossiabutbul.vercel.app/">
+  <img src="https://img.shields.io/badge/→_VISIT_SITE-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Visit site" height="30" />
+</a>
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+---
 
 ## Toolkit
 
-<table>
-<tr>
-<td><b>&nbsp;Frontend&nbsp;</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-000C1A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-000C1A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Vite-000C1A?style=flat-square&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/HTML5-000C1A?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000C1A?style=flat-square&logo=css3&logoColor=1572B6" />
-</td>
-</tr>
-<tr>
-<td><b>&nbsp;Backend&nbsp;</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-000C1A?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/FastAPI-000C1A?style=flat-square&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/C-000C1A?style=flat-square&logo=c&logoColor=A8B9CC" />
-</td>
-</tr>
-<tr>
-<td><b>&nbsp;Instruments&nbsp;</b></td>
-<td>
-<img src="https://img.shields.io/badge/SCPI-000C1A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/PyVISA-000C1A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/GPIB-000C1A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-000C1A?style=flat-square&logo=numpy&logoColor=013243" />
-</td>
-</tr>
-<tr>
-<td><b>&nbsp;Workflow&nbsp;</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-000C1A?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-000C1A?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-000C1A?style=flat-square&logo=figma&logoColor=F24E1E" />
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,c&theme=dark" alt="Backend" />
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Workflow" />
 
 <br/>
+<br/>
+
+**Bench side**
+
+<img src="https://img.shields.io/badge/SCPI-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
+<img src="https://img.shields.io/badge/PyVISA-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
+<img src="https://img.shields.io/badge/GPIB-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
+<img src="https://img.shields.io/badge/NumPy-000C1A?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=000C1A&color=16324F" />
+
+</div>
+
+<br/>
+
+---
 
 <details>
 <summary><b>What working with instruments taught me about writing software</b></summary>
@@ -121,10 +129,12 @@ smart people struggle with tools built by engineers who never watched anyone use
 
 <br/>
 
-- **Studying:** CS degree, currently deep in systems and data structures
-- **Building:** measurement pipelines and the web layers that make them readable
-- **Learning:** real-time data handling, clean API design, and getting better at C
-- **Curious about:** embedded Rust, WebSerial, and browser-based instrument control
+| | |
+|---|---|
+| **Studying** | CS degree, currently deep in systems and data structures |
+| **Building** | measurement pipelines and the web layers that make them readable |
+| **Learning** | real time data handling, clean API design, and getting better at C |
+| **Curious about** | embedded Rust, WebSerial, and browser based instrument control |
 
 </details>
 
@@ -134,8 +144,10 @@ smart people struggle with tools built by engineers who never watched anyone use
 
 <div align="center">
 
-**Open to internships and collaborations** — especially anything where hardware and software meet.
+**Open to internships and collaborations**, especially anything where hardware and software meet.
 
-[abyossi22@gmail.com](mailto:abyossi22@gmail.com)
+<a href="mailto:abyossi22@gmail.com">
+  <img src="https://img.shields.io/badge/abyossi22@gmail.com-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000C1A" alt="Email" height="32" />
+</a>
 
 </div>
