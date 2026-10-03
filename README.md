@@ -103,30 +103,6 @@ it: what the problem was, what I tried, what broke.
 
 ---
 
-<details>
-<summary><b>What working with instruments taught me about writing software</b></summary>
-
-<br/>
-
-**Failure is physical, so you stop trusting yourself.** A loose SMA connector costs
-you three hours and a data set. You learn to verify before you assume, and to build
-the check into the process instead of into your memory.
-
-**Every measurement needs a units label.** Ambiguity in a lab is expensive in a way
-ambiguity in a codebase only *eventually* is. I name things carefully because I've
-been burned by dBm versus dBmV.
-
-**The interface is the product.** Nobody cares how elegant the sweep routine is if
-the operator can't read the output. Most of my frontend instinct comes from watching
-smart people struggle with tools built by engineers who never watched anyone use them.
-
-**Automate the boring part, then automate the part that checks the boring part.**
-
-</details>
-
-<details>
-<summary><b>What I'm working on now</b></summary>
-
 <br/>
 
 | | |
