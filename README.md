@@ -77,6 +77,49 @@ it: what the problem was, what I tried, what broke.
 
 ---
 
+## Claude Code mods
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 usage-band
+
+A slim band above the Claude Code prompt showing how much
+of your plan you've used: the 5-hour and weekly limits,
+with progress bars and a countdown to each reset.
+
+<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
+
+<a href="https://github.com/YossiAbutbul/claude-usage-band">
+  <img src="https://img.shields.io/badge/→_VIEW_REPO-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="View repo" height="30" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 water-reminder
+
+The Claude critter pops up every hour, water bottle in
+hand, and asks if you drank water. Say "not yet" and it
+keeps asking every 5 minutes until you do.
+
+<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
+
+<a href="https://github.com/YossiAbutbul/claude-water-reminder">
+  <img src="https://img.shields.io/badge/→_VIEW_REPO-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="View repo" height="30" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 ## Toolkit
 
 <div align="center">
