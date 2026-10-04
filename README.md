@@ -1,6 +1,6 @@
-<img src="yossi_github_banner.png" alt="Yossi Abutbul: full stack, automation, RF" width="100%" />
-
 <div align="center">
+
+# Yossi Abutbul
 
 ### I make hardware talk to software.
 
@@ -9,9 +9,7 @@ Now I build the systems that do the repeating.
 
 <br/>
 
-<a href="https://yossiabutbul.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="28" /></a>
-<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><img src="https://img.shields.io/badge/LinkedIn-0B1A2B?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" height="28" /></a>
-<a href="mailto:abyossi22@gmail.com"><img src="https://img.shields.io/badge/Email-0B1A2B?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
+**[Portfolio](https://yossiabutbul.vercel.app/)**&nbsp;&nbsp;·&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/yossi-abutbul-550958199/)**&nbsp;&nbsp;·&nbsp;&nbsp;**[Email](mailto:abyossi22@gmail.com)**
 
 <sub>RF & Test Automation&nbsp;&nbsp;·&nbsp;&nbsp;CS Student&nbsp;&nbsp;·&nbsp;&nbsp;Open to Internships</sub>
 
