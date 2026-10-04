@@ -37,7 +37,7 @@ Now I build the systems that do the repeating.
 A browser arcade game. No install, no loading screen, no
 tutorial. Just reflexes and the compulsion to try once more.
 
-<a href="https://trump-jump-hormuz.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-it-now-dark.svg" /><img src="assets/buttons/play-it-now-light.svg" alt="Play it now" height="40" /></picture></a>
+<p align="right"><a href="https://trump-jump-hormuz.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-it-now-dark.svg" /><img src="assets/buttons/play-it-now-light.svg" alt="Play it now" height="40" /></picture></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +49,7 @@ tutorial. Just reflexes and the compulsion to try once more.
 Everything else, written up with the reasoning behind
 it: what the problem was, what I tried, what broke.
 
-<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/visit-now-dark.svg" /><img src="assets/buttons/visit-now-light.svg" alt="Visit now" height="40" /></picture></a>
+<p align="right"><a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/visit-now-dark.svg" /><img src="assets/buttons/visit-now-light.svg" alt="Visit now" height="40" /></picture></a></p>
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ A semester planner for students. Drop in your university
 calendar and every course, assignment and exam is there,
 with progress tracking and a finals countdown.
 
-<a href="https://oplanner-one.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
+<p align="right"><a href="https://oplanner-one.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ An interactive MIPS pipeline simulator. Write code, step
 through IF, ID, EX, MEM and WB, and watch hazard detection
 and forwarding on the full datapath.
 
-<a href="https://yossiabutbul.github.io/Pipeline_CPU/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
+<p align="right"><a href="https://yossiabutbul.github.io/Pipeline_CPU/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a></p>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
 with progress bars and a countdown to each reset.
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
+<p align="right"><a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
 keeps asking every 5 minutes until you do.
 
-<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
+<p align="right"><a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a></p>
 
 </td>
 </tr>
