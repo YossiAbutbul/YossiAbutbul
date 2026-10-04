@@ -13,9 +13,7 @@ Now I build the systems that do the repeating.
 
 <br/>
 
-<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vercel-dark.svg" /><img src="assets/icons/vercel-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg" /><img src="assets/icons/linkedin-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:abyossi22@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mail-dark.svg" /><img src="assets/icons/mail-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>Email</b></a>
+<a href="https://yossiabutbul.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" height="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:abyossi22@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40" /></a>
 
 </div>
 
