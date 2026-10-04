@@ -53,6 +53,34 @@ it: what the problem was, what I tried, what broke.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://oplanner-one.vercel.app/"><img src="assets/cards/oplanner.jpg" alt="OPlanner: semester planner landing page" width="100%" /></a>
+
+### OPlanner
+
+A semester planner for students. Drop in your university
+calendar and every course, assignment and exam is there,
+with progress tracking and a finals countdown.
+
+<a href="https://oplanner-one.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://yossiabutbul.github.io/Pipeline_CPU/"><img src="assets/cards/pipeline-cpu.jpg" alt="Pipeline CPU: MIPS pipeline simulator with the full datapath diagram" width="100%" /></a>
+
+### Pipeline CPU
+
+An interactive MIPS pipeline simulator. Write code, step
+through IF, ID, EX, MEM and WB, and watch hazard detection
+and forwarding on the full datapath.
+
+<a href="https://yossiabutbul.github.io/Pipeline_CPU/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
+
+</td>
+</tr>
 </table>
 
 ## Claude Code mods
