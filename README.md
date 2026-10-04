@@ -30,7 +30,9 @@ Now I build the systems that do the repeating.
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 Trump Jump: Strait of Hormuz
+<a href="https://trump-jump-hormuz.vercel.app/"><img src="assets/cards/trump-jump.jpg" alt="Trump Jump: Strait of Hormuz" width="100%" /></a>
+
+### 🎮 Trump Jump: Strait of Hormuz
 
 A browser arcade game. No install, no loading screen, no
 tutorial. Just reflexes and the compulsion to try once more.
@@ -44,7 +46,9 @@ tutorial. Just reflexes and the compulsion to try once more.
 </td>
 <td width="50%" valign="top">
 
-#### 🗂️ Portfolio
+<a href="https://yossiabutbul.vercel.app/"><img src="assets/cards/portfolio.jpg" alt="Yossi Abutbul portfolio" width="100%" /></a>
+
+### 🗂️ Portfolio
 
 Everything else, written up with the reasoning behind
 it: what the problem was, what I tried, what broke.
@@ -65,7 +69,9 @@ it: what the problem was, what I tried, what broke.
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 usage-band
+<a href="https://github.com/YossiAbutbul/claude-usage-band"><img src="assets/cards/usage-band.svg" alt="usage-band: plan usage bars above the Claude Code prompt" width="100%" /></a>
+
+### 📊 usage-band
 
 A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
@@ -79,7 +85,9 @@ with progress bars and a countdown to each reset.
 </td>
 <td width="50%" valign="top">
 
-#### 💧 water-reminder
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><img src="assets/cards/water-reminder.svg" alt="water-reminder: the Claude critter asking if you drank water" width="100%" /></a>
+
+### 💧 water-reminder
 
 The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
@@ -105,13 +113,6 @@ keeps asking every 5 minutes until you do.
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Workflow" />
 
 </div>
-
-## Right now
-
-- 📚 **Studying:** CS degree, currently deep in systems and data structures
-- 🔧 **Building:** measurement pipelines and the web layers that make them readable
-- 🌱 **Learning:** real time data handling, clean API design, and getting better at C
-- 🔭 **Curious about:** embedded Rust, WebSerial, and browser based instrument control
 
 <br/>
 
