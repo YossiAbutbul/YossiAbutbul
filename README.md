@@ -11,7 +11,7 @@
 
 <br/>
 
-### I make hardware talk to software.
+### RF integrator and Computer Science student at the Open University
 
 RF engineering taught me that most of the job is repetitive work waiting to be automated.<br/>
 Now I build the systems that do the repeating.
