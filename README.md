@@ -1,6 +1,6 @@
-<div align="center">
+<img src="yossi_github_banner.png" alt="Yossi Abutbul: full stack, automation, RF" width="100%" />
 
-# Yossi Abutbul
+<div align="center">
 
 ### I make hardware talk to software.
 
@@ -9,30 +9,15 @@ Now I build the systems that do the repeating.
 
 <br/>
 
-<a href="https://yossiabutbul.vercel.app/">
-  <img src="assets/buttons/portfolio.svg" alt="Portfolio" height="40" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/">
-  <img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="40" />
-</a>
-&nbsp;
-<a href="mailto:abyossi22@gmail.com">
-  <img src="assets/buttons/email.svg" alt="Email" height="40" />
-</a>
+<a href="https://yossiabutbul.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="28" /></a>
+<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><img src="https://img.shields.io/badge/LinkedIn-0B1A2B?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" height="28" /></a>
+<a href="mailto:abyossi22@gmail.com"><img src="https://img.shields.io/badge/Email-0B1A2B?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
 
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/RF_%26_Test_Automation-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
-<img src="https://img.shields.io/badge/CS_Student-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
-<img src="https://img.shields.io/badge/Open_to_Internships-000C1A?style=flat-square&labelColor=000C1A&color=16324F" />
+<sub>RF & Test Automation&nbsp;&nbsp;·&nbsp;&nbsp;CS Student&nbsp;&nbsp;·&nbsp;&nbsp;Open to Internships</sub>
 
 </div>
 
 <br/>
-
----
 
 ## Selected work
 
@@ -40,42 +25,34 @@ Now I build the systems that do the repeating.
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Trump Jump: Strait of Hormuz
+#### 🎮 Trump Jump: Strait of Hormuz
 
 A browser arcade game. No install, no loading screen, no
 tutorial. Just reflexes and the compulsion to try once more.
 
-<img src="https://img.shields.io/badge/JavaScript-000C1A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Canvas-000C1A?style=flat-square&logo=htmlacademy&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/Vercel-000C1A?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0B1A2B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Canvas-0B1A2B?style=flat-square&logo=htmlacademy&logoColor=E34F26" alt="Canvas" />
+<img src="https://img.shields.io/badge/Vercel-0B1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
-<a href="https://trump-jump-hormuz.vercel.app/">
-  <img src="assets/buttons/play.svg" alt="Play it" height="36" />
-</a>
+**[Play it →](https://trump-jump-hormuz.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ Portfolio
+#### 🗂️ Portfolio
 
 Everything else, written up with the reasoning behind
 it: what the problem was, what I tried, what broke.
 
-<img src="https://img.shields.io/badge/React-000C1A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Vite-000C1A?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/React-0B1A2B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vite-0B1A2B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
 
-<a href="https://yossiabutbul.vercel.app/">
-  <img src="assets/buttons/visit-site.svg" alt="Visit site" height="36" />
-</a>
+**[Visit site →](https://yossiabutbul.vercel.app/)**
 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
 
 ## Claude Code mods
 
@@ -83,90 +60,54 @@ it: what the problem was, what I tried, what broke.
 <tr>
 <td width="50%" valign="top">
 
-### 📊 usage-band
+#### 📊 usage-band
 
 A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
 with progress bars and a countdown to each reset.
 
-<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
+<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Claude_Code-0B1A2B?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band">
-  <img src="assets/buttons/view-repo.svg" alt="View repo" height="36" />
-</a>
+**[View repo →](https://github.com/YossiAbutbul/claude-usage-band)**
 
 </td>
 <td width="50%" valign="top">
 
-### 💧 water-reminder
+#### 💧 water-reminder
 
 The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
 keeps asking every 5 minutes until you do.
 
-<img src="https://img.shields.io/badge/TypeScript-000C1A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
+<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Claude_Code-0B1A2B?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
 
-<a href="https://github.com/YossiAbutbul/claude-water-reminder">
-  <img src="assets/buttons/view-repo.svg" alt="View repo" height="36" />
-</a>
+**[View repo →](https://github.com/YossiAbutbul/claude-water-reminder)**
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
 ## Toolkit
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,python,fastapi,c,git,github,figma,vercel&theme=dark&perline=13" alt="React, TypeScript, JavaScript, Vite, HTML, CSS, Python, FastAPI, C, Git, GitHub, Figma, Vercel" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" alt="Frontend" />
+## Right now
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,c&theme=dark" alt="Backend" />
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Workflow" />
-
-<br/>
-<br/>
-
-**Bench side**
-
-<img src="https://img.shields.io/badge/SCPI-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
-<img src="https://img.shields.io/badge/PyVISA-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
-<img src="https://img.shields.io/badge/GPIB-000C1A?style=for-the-badge&labelColor=000C1A&color=16324F" />
-<img src="https://img.shields.io/badge/NumPy-000C1A?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=000C1A&color=16324F" />
-
-</div>
+- 📚 **Studying:** CS degree, currently deep in systems and data structures
+- 🔧 **Building:** measurement pipelines and the web layers that make them readable
+- 🌱 **Learning:** real time data handling, clean API design, and getting better at C
+- 🔭 **Curious about:** embedded Rust, WebSerial, and browser based instrument control
 
 <br/>
-
----
-
-<br/>
-
-| | |
-|---|---|
-| **Studying** | CS degree, currently deep in systems and data structures |
-| **Building** | measurement pipelines and the web layers that make them readable |
-| **Learning** | real time data handling, clean API design, and getting better at C |
-| **Curious about** | embedded Rust, WebSerial, and browser based instrument control |
-
-</details>
-
-<br/>
-
----
 
 <div align="center">
 
 **Open to internships and collaborations**, especially anything where hardware and software meet.
 
-<a href="mailto:abyossi22@gmail.com">
-  <img src="assets/buttons/email-address.svg" alt="abyossi22@gmail.com" height="40" />
-</a>
+[abyossi22@gmail.com](mailto:abyossi22@gmail.com)
 
 </div>
