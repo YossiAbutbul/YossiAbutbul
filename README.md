@@ -32,32 +32,24 @@ Now I build the systems that do the repeating.
 
 <a href="https://trump-jump-hormuz.vercel.app/"><img src="assets/cards/trump-jump.jpg" alt="Trump Jump: Strait of Hormuz" width="100%" /></a>
 
-### 🎮 Trump Jump: Strait of Hormuz
+### Trump Jump: Strait of Hormuz
 
 A browser arcade game. No install, no loading screen, no
 tutorial. Just reflexes and the compulsion to try once more.
 
-<img src="https://img.shields.io/badge/JavaScript-0B1A2B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Canvas-0B1A2B?style=flat-square&logo=htmlacademy&logoColor=E34F26" alt="Canvas" />
-<img src="https://img.shields.io/badge/Vercel-0B1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-
-**[Play it →](https://trump-jump-hormuz.vercel.app/)**
+<a href="https://trump-jump-hormuz.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-it-now-dark.svg" /><img src="assets/buttons/play-it-now-light.svg" alt="Play it now" height="40" /></picture></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://yossiabutbul.vercel.app/"><img src="assets/cards/portfolio.jpg" alt="Yossi Abutbul portfolio" width="100%" /></a>
 
-### 🗂️ Portfolio
+### Portfolio
 
 Everything else, written up with the reasoning behind
 it: what the problem was, what I tried, what broke.
 
-<img src="https://img.shields.io/badge/React-0B1A2B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Vite-0B1A2B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-
-**[Visit site →](https://yossiabutbul.vercel.app/)**
+<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/visit-now-dark.svg" /><img src="assets/buttons/visit-now-light.svg" alt="Visit now" height="40" /></picture></a>
 
 </td>
 </tr>
@@ -71,32 +63,26 @@ it: what the problem was, what I tried, what broke.
 
 <a href="https://github.com/YossiAbutbul/claude-usage-band"><img src="assets/cards/usage-band.svg" alt="usage-band: plan usage bars above the Claude Code prompt" width="100%" /></a>
 
-### 📊 usage-band
+### usage-band
 
 A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
 with progress bars and a countdown to each reset.
 
-<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Claude_Code-0B1A2B?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
-
-**[View repo →](https://github.com/YossiAbutbul/claude-usage-band)**
+<a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/YossiAbutbul/claude-water-reminder"><img src="assets/cards/water-reminder.svg" alt="water-reminder: the Claude critter asking if you drank water" width="100%" /></a>
 
-### 💧 water-reminder
+### water-reminder
 
 The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
 keeps asking every 5 minutes until you do.
 
-<img src="https://img.shields.io/badge/TypeScript-0B1A2B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Claude_Code-0B1A2B?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
-
-**[View repo →](https://github.com/YossiAbutbul/claude-water-reminder)**
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
 
 </td>
 </tr>
