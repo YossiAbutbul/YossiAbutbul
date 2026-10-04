@@ -13,9 +13,6 @@
 
 ### RF integrator and Computer Science student at the Open University
 
-RF engineering taught me that most of the job is repetitive work waiting to be automated.<br/>
-Now I build the systems that do the repeating.
-
 <br/>
 
 <a href="https://yossiabutbul.vercel.app/" title="Portfolio"><img src="assets/portfolio-icon.svg" alt="Portfolio" height="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:abyossi22@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40" /></a>
