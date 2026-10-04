@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg" />
-  <img src="assets/name-light.svg" alt="Yossi Abutbul" height="75" />
+  <img src="assets/name-light.svg" alt="Yossi Abutbul" height="78" />
 </picture>
 
 <sub>R&nbsp;F&nbsp;&nbsp;&amp;&nbsp;&nbsp;T&nbsp;E&nbsp;S&nbsp;T&nbsp;&nbsp;&nbsp;A&nbsp;U&nbsp;T&nbsp;O&nbsp;M&nbsp;A&nbsp;T&nbsp;I&nbsp;O&nbsp;N&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;C&nbsp;S&nbsp;&nbsp;&nbsp;S&nbsp;T&nbsp;U&nbsp;D&nbsp;E&nbsp;N&nbsp;T&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;O&nbsp;P&nbsp;E&nbsp;N&nbsp;&nbsp;&nbsp;T&nbsp;O&nbsp;&nbsp;&nbsp;I&nbsp;N&nbsp;T&nbsp;E&nbsp;R&nbsp;N&nbsp;S&nbsp;H&nbsp;I&nbsp;P&nbsp;S</sub>
