@@ -10,15 +10,15 @@ Now I build the systems that do the repeating.
 <br/>
 
 <a href="https://yossiabutbul.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-16324F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000C1A" alt="Portfolio" height="34" />
+  <img src="assets/buttons/portfolio.svg" alt="Portfolio" height="40" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/yossi-abutbul-550958199/">
-  <img src="https://img.shields.io/badge/LINKEDIN-16324F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000C1A" alt="LinkedIn" height="34" />
+  <img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="40" />
 </a>
 &nbsp;
 <a href="mailto:abyossi22@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000C1A" alt="Email" height="34" />
+  <img src="assets/buttons/email.svg" alt="Email" height="40" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@ tutorial. Just reflexes and the compulsion to try once more.
 <img src="https://img.shields.io/badge/Vercel-000C1A?style=flat-square&logo=vercel&logoColor=white" />
 
 <a href="https://trump-jump-hormuz.vercel.app/">
-  <img src="https://img.shields.io/badge/▶_PLAY_IT-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Play it" height="30" />
+  <img src="assets/buttons/play.svg" alt="Play it" height="36" />
 </a>
 
 </td>
@@ -66,7 +66,7 @@ it: what the problem was, what I tried, what broke.
 <img src="https://img.shields.io/badge/Vite-000C1A?style=flat-square&logo=vite&logoColor=646CFF" />
 
 <a href="https://yossiabutbul.vercel.app/">
-  <img src="https://img.shields.io/badge/→_VISIT_SITE-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="Visit site" height="30" />
+  <img src="assets/buttons/visit-site.svg" alt="Visit site" height="36" />
 </a>
 
 </td>
@@ -93,7 +93,7 @@ with progress bars and a countdown to each reset.
 <img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
 
 <a href="https://github.com/YossiAbutbul/claude-usage-band">
-  <img src="https://img.shields.io/badge/→_VIEW_REPO-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="View repo" height="30" />
+  <img src="assets/buttons/view-repo.svg" alt="View repo" height="36" />
 </a>
 
 </td>
@@ -109,7 +109,7 @@ keeps asking every 5 minutes until you do.
 <img src="https://img.shields.io/badge/Claude_Code-000C1A?style=flat-square&logo=claude&logoColor=D97757" />
 
 <a href="https://github.com/YossiAbutbul/claude-water-reminder">
-  <img src="https://img.shields.io/badge/→_VIEW_REPO-16324F?style=for-the-badge&logoColor=white&labelColor=000C1A" alt="View repo" height="30" />
+  <img src="assets/buttons/view-repo.svg" alt="View repo" height="36" />
 </a>
 
 </td>
@@ -166,7 +166,7 @@ keeps asking every 5 minutes until you do.
 **Open to internships and collaborations**, especially anything where hardware and software meet.
 
 <a href="mailto:abyossi22@gmail.com">
-  <img src="https://img.shields.io/badge/abyossi22@gmail.com-16324F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000C1A" alt="Email" height="32" />
+  <img src="assets/buttons/email-address.svg" alt="abyossi22@gmail.com" height="40" />
 </a>
 
 </div>
