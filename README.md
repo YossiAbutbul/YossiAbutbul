@@ -91,9 +91,15 @@ keeps asking every 5 minutes until you do.
 
 ## Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,python,fastapi,c,git,github,figma,vercel&theme=dark&perline=13" alt="React, TypeScript, JavaScript, Vite, HTML, CSS, Python, FastAPI, C, Git, GitHub, Figma, Vercel" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,c&theme=dark" alt="Backend" />
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Workflow" />
+
+</div>
 
 ## Right now
 
