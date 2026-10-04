@@ -2,6 +2,10 @@
 
 # Yossi Abutbul
 
+<sub>R&nbsp;F&nbsp;&nbsp;&amp;&nbsp;&nbsp;T&nbsp;E&nbsp;S&nbsp;T&nbsp;&nbsp;&nbsp;A&nbsp;U&nbsp;T&nbsp;O&nbsp;M&nbsp;A&nbsp;T&nbsp;I&nbsp;O&nbsp;N&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;C&nbsp;S&nbsp;&nbsp;&nbsp;S&nbsp;T&nbsp;U&nbsp;D&nbsp;E&nbsp;N&nbsp;T&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;O&nbsp;P&nbsp;E&nbsp;N&nbsp;&nbsp;&nbsp;T&nbsp;O&nbsp;&nbsp;&nbsp;I&nbsp;N&nbsp;T&nbsp;E&nbsp;R&nbsp;N&nbsp;S&nbsp;H&nbsp;I&nbsp;P&nbsp;S</sub>
+
+<br/>
+
 ### I make hardware talk to software.
 
 RF engineering taught me that most of the job is repetitive work waiting to be automated.<br/>
@@ -9,9 +13,9 @@ Now I build the systems that do the repeating.
 
 <br/>
 
-**[Portfolio](https://yossiabutbul.vercel.app/)**&nbsp;&nbsp;·&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/yossi-abutbul-550958199/)**&nbsp;&nbsp;·&nbsp;&nbsp;**[Email](mailto:abyossi22@gmail.com)**
-
-<sub>RF & Test Automation&nbsp;&nbsp;·&nbsp;&nbsp;CS Student&nbsp;&nbsp;·&nbsp;&nbsp;Open to Internships</sub>
+<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vercel-dark.svg" /><img src="assets/icons/vercel-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg" /><img src="assets/icons/linkedin-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:abyossi22@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mail-dark.svg" /><img src="assets/icons/mail-light.svg" alt="" width="16" height="18" align="top" /></picture>&nbsp;<b>Email</b></a>
 
 </div>
 
