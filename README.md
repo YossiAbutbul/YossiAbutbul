@@ -19,7 +19,7 @@
 
 <br/>
 
-## Claude Code mods
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/mods-dark.svg" /><img src="assets/headings/mods-light.svg" alt="Claude Code mods" width="460" /></picture></div>
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ keeps asking every 5 minutes until you do.
 
 <br/>
 
-## Toolkit
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolkit-dark.svg" /><img src="assets/headings/toolkit-light.svg" alt="Toolkit" width="460" /></picture></div>
 
 <div align="center">
 
