@@ -56,11 +56,7 @@ keeps asking every 5 minutes until you do.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolkit-left-dark.svg" /><img src="assets/headings/toolkit-left-light.svg" alt="Toolkit" height="70" /></picture>
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,python,fastapi,c,git,github,figma&perline=12&theme=dark" alt="React, TypeScript, JavaScript, Vite, HTML, CSS, Python, FastAPI, C, Git, GitHub, Figma" />
-
-</div>
 
 <br/>
 
