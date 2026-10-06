@@ -68,10 +68,4 @@ keeps asking every 5 minutes until you do.
 
 <br/>
 
-<div align="center">
-
-**Open to internships and collaborations**, especially anything where hardware and software meet.
-
-[abyossi22@gmail.com](mailto:abyossi22@gmail.com)
-
-</div>
+<a href="mailto:abyossi22@gmail.com"><img src="assets/cards/contact.svg" alt="Open to internships and collaborations. abyossi22@gmail.com" width="100%" /></a>
