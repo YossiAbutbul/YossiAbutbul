@@ -19,7 +19,7 @@
 
 <br/>
 
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/mods-dark.svg" /><img src="assets/headings/mods-light.svg" alt="Claude Code mods" width="460" /></picture></div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/mods-dark.svg" /><img src="assets/headings/mods-light.svg" alt="Claude Code mods" height="70" /></picture>
 
 <table>
 <tr>
@@ -54,9 +54,7 @@ keeps asking every 5 minutes until you do.
 
 <br/>
 
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolkit-dark.svg" /><img src="assets/headings/toolkit-light.svg" alt="Toolkit" width="460" /></picture></div>
-
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolkit-dark.svg" /><img src="assets/headings/toolkit-light.svg" alt="Toolkit" height="70" /></picture>
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" alt="Frontend" />
 
@@ -64,14 +62,8 @@ keeps asking every 5 minutes until you do.
 
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Workflow" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/contact-dark.svg" /><img src="assets/contact/contact-light.svg" alt="Get in touch. Open to internships and collaborations" width="460" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/contact-dark.svg" /><img src="assets/contact/contact-light.svg" alt="Get in touch. Open to internships and collaborations" height="70" /></picture>
 
 <a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/linkedin-dark.svg" /><img src="assets/contact/linkedin-light.svg" alt="LinkedIn" height="44" /></picture></a>&nbsp;&nbsp;<a href="mailto:abyossi22@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/email-dark.svg" /><img src="assets/contact/email-light.svg" alt="Email abyossi22@gmail.com" height="44" /></picture></a>
-
-</div>
