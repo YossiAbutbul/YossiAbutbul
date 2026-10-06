@@ -64,7 +64,7 @@ keeps asking every 5 minutes until you do.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,c&theme=dark" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Workflow" />
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Workflow" />
 
 </div>
 
