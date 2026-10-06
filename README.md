@@ -21,59 +21,15 @@
 
 <br/>
 
-## Selected work
-
-### Trump Jump: Strait of Hormuz
-
-<a href="https://trump-jump-hormuz.vercel.app/"><img src="assets/cards/trump-jump.jpg" alt="Trump Jump: Strait of Hormuz" width="480" /></a>
-
-A browser arcade game. No install, no loading screen, no
-tutorial. Just reflexes and the compulsion to try once more.
-
-<a href="https://trump-jump-hormuz.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-it-now-dark.svg" /><img src="assets/buttons/play-it-now-light.svg" alt="Play it now" height="40" /></picture></a>
-
-<br/>
-
-### Portfolio
-
-<a href="https://yossiabutbul.vercel.app/"><img src="assets/cards/portfolio.jpg" alt="Yossi Abutbul portfolio" width="480" /></a>
-
-Everything else, written up with the reasoning behind
-it: what the problem was, what I tried, what broke.
-
-<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/visit-now-dark.svg" /><img src="assets/buttons/visit-now-light.svg" alt="Visit now" height="40" /></picture></a>
-
-<br/>
-
-### OPlanner
-
-<a href="https://oplanner-one.vercel.app/"><img src="assets/cards/oplanner.jpg" alt="OPlanner: semester planner landing page" width="480" /></a>
-
-A semester planner for students. Drop in your university
-calendar and every course, assignment and exam is there,
-with progress tracking and a finals countdown.
-
-<a href="https://oplanner-one.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
-
-<br/>
-
-### Pipeline CPU
-
-<a href="https://yossiabutbul.github.io/Pipeline_CPU/"><img src="assets/cards/pipeline-cpu.jpg" alt="Pipeline CPU: MIPS pipeline simulator with the full datapath diagram" width="480" /></a>
-
-An interactive MIPS pipeline simulator. Write code, step
-through IF, ID, EX, MEM and WB, and watch hazard detection
-and forwarding on the full datapath.
-
-<a href="https://yossiabutbul.github.io/Pipeline_CPU/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/try-it-now-dark.svg" /><img src="assets/buttons/try-it-now-light.svg" alt="Try it now" height="40" /></picture></a>
-
-<br/>
-
 ## Claude Code mods
 
-### usage-band
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band"><img src="assets/cards/usage-band.svg" alt="usage-band: plan usage bars above the Claude Code prompt" width="480" /></a>
+<a href="https://github.com/YossiAbutbul/claude-usage-band"><img src="assets/cards/usage-band.svg" alt="usage-band: plan usage bars above the Claude Code prompt" width="100%" /></a>
+
+### usage-band
 
 A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
@@ -81,17 +37,22 @@ with progress bars and a countdown to each reset.
 
 <a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
 
-<br/>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><img src="assets/cards/water-reminder.svg" alt="water-reminder: the Claude critter asking if you drank water" width="100%" /></a>
 
 ### water-reminder
-
-<a href="https://github.com/YossiAbutbul/claude-water-reminder"><img src="assets/cards/water-reminder.svg" alt="water-reminder: the Claude critter asking if you drank water" width="480" /></a>
 
 The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
 keeps asking every 5 minutes until you do.
 
 <a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
