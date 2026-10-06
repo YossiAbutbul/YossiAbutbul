@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://yossiabutbul.vercel.app/" title="Portfolio"><img src="assets/portfolio-icon.svg" alt="Portfolio" height="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:abyossi22@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40" /></a>
+<a href="https://yossiabutbul.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-card-dark.svg" /><img src="assets/portfolio-card-light.svg" alt="Portfolio: yossiabutbul.vercel.app" height="76" /></picture></a>
 
 </div>
 
@@ -68,4 +68,10 @@ keeps asking every 5 minutes until you do.
 
 <br/>
 
-<a href="mailto:abyossi22@gmail.com"><img src="assets/cards/contact.svg" alt="Open to internships and collaborations. abyossi22@gmail.com" width="100%" /></a>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/contact-dark.svg" /><img src="assets/contact/contact-light.svg" alt="Get in touch. Open to internships and collaborations" width="460" /></picture>
+
+<a href="https://www.linkedin.com/in/yossi-abutbul-550958199/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/linkedin-dark.svg" /><img src="assets/contact/linkedin-light.svg" alt="LinkedIn" height="44" /></picture></a>&nbsp;&nbsp;<a href="mailto:abyossi22@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/email-dark.svg" /><img src="assets/contact/email-light.svg" alt="Email abyossi22@gmail.com" height="44" /></picture></a>
+
+</div>
