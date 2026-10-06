@@ -25,9 +25,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YossiAbutbul/altshift"><img src="assets/cards/altshift-card.svg" alt="altshift: Fix turns akuo nv nmc into שלום מה מצב above the Claude Code prompt" width="100%" /></a>
+<a href="https://github.com/YossiAbutbul/altshift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/altshift-card.svg" /><img src="assets/cards/altshift-card-light.svg" alt="altshift: Fix turns akuo nv nmc into שלום מה מצב above the Claude Code prompt" width="100%" /></picture></a>
 
-<a href="https://github.com/YossiAbutbul/altshift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-lg-light.svg" alt="View repo" width="100%" /></picture></a>
+<a href="https://github.com/YossiAbutbul/altshift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-soft-light.svg" alt="View repo" width="100%" /></picture></a>
 
 ### altshift
 
@@ -39,9 +39,9 @@ Hebrew chat right-to-left.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YossiAbutbul/claude-water-reminder"><img src="assets/cards/water-reminder-card.svg" alt="water-reminder: the Claude critter asking if you drank water" width="100%" /></a>
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/water-reminder-card.svg" /><img src="assets/cards/water-reminder-card-light.svg" alt="water-reminder: the Claude critter asking if you drank water" width="100%" /></picture></a>
 
-<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-lg-light.svg" alt="View repo" width="100%" /></picture></a>
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-soft-light.svg" alt="View repo" width="100%" /></picture></a>
 
 ### water-reminder
 
