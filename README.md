@@ -35,7 +35,7 @@ A slim band above the Claude Code prompt showing how much
 of your plan you've used: the 5-hour and weekly limits,
 with progress bars and a countdown to each reset.
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
+<a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" width="100%" /></picture></a>
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +48,7 @@ The Claude critter pops up every hour, water bottle in
 hand, and asks if you drank water. Say "not yet" and it
 keeps asking every 5 minutes until you do.
 
-<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" height="40" /></picture></a>
+<a href="https://github.com/YossiAbutbul/claude-water-reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-dark.svg" /><img src="assets/buttons/view-repo-light.svg" alt="View repo" width="100%" /></picture></a>
 
 </td>
 </tr>
