@@ -25,15 +25,16 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band"><img src="assets/cards/usage-band.svg" alt="usage-band: plan usage bars above the Claude Code prompt" width="100%" /></a>
+<a href="https://github.com/YossiAbutbul/altshift"><img src="assets/cards/altshift.svg" alt="altshift: Fix turns akuo nv nmc into שלום מה מצב above the Claude Code prompt" width="100%" /></a>
 
-<a href="https://github.com/YossiAbutbul/claude-usage-band"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-lg-light.svg" alt="View repo" width="100%" /></picture></a>
+<a href="https://github.com/YossiAbutbul/altshift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/view-repo-lg-dark.svg" /><img src="assets/buttons/view-repo-lg-light.svg" alt="View repo" width="100%" /></picture></a>
 
-### usage-band
+### altshift
 
-A slim band above the Claude Code prompt showing how much
-of your plan you've used: the 5-hour and weekly limits,
-with progress bars and a countdown to each reset.
+A band above the Claude Code prompt for working in
+Hebrew and English: Fix turns text typed on the wrong
+keyboard layout into what you meant, and RTL shows
+Hebrew chat right-to-left.
 
 </td>
 <td width="50%" valign="top">
