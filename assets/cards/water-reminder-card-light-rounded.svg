@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#f6f8fa"/>
+  <rect x="1.5" y="1.5" width="1197" height="627" rx="28" fill="#f6f8fa" stroke="#d0d7de" stroke-width="3"/>
   <svg x="70.0" y="191.7" width="1060.0" height="246.5" viewBox="20 46 430 100" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="14">
   <!-- Preview of water-reminder in the Claude desktop app (light theme). The critter is drawn from the sprite data in hooks/register.tsx. -->
   <defs>

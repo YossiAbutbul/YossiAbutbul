@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#161B22"/>
+  <rect x="1.5" y="1.5" width="1197" height="627" rx="28" fill="#161B22" stroke="#30363D" stroke-width="3"/>
   <svg x="70.0" y="85.0" width="1060.0" height="460.0" viewBox="0 0 430 186.6" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="13">
   <!-- altshift in the Claude desktop app (dark theme): the band above the prompt, a prompt typed on the
        wrong layout, and the same prompt after Fix. Same buttons and swap icon as hooks/register.tsx. -->
